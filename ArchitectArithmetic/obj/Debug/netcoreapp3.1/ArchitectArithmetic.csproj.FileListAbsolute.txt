@@ -1,0 +1,13 @@
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.exe
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.deps.json
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.json
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.runtimeconfig.dev.json
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csprojAssemblyReference.cache
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.AssemblyInfo.cs
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.dll
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.pdb
+C:\Users\Emily Venturino\Desktop\Coding\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\netcoreapp3.1\ArchitectArithmetic.genruntimeconfig.cache
